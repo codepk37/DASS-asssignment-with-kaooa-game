@@ -36,7 +36,7 @@ Run :python kaooa.py
 
 All rules mentioned are followed:https://www.whatdowedoallday.com/kaooa/ are followed
 
-
+Used Pygame.
 Display represents Crows eaten ,which player should play and name of player winning game
 USE SINGLE CLICK over dots
 ->When Dot to move is selected: prints "initial pos selected" then select 2nd dot position to move
