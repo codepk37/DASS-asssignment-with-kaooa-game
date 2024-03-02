@@ -1,5 +1,5 @@
 #updated code of pygame to kivy so now
-#YOu can convert this code in phone application using google-collab
+#You can convert this code into application using google-collab
 import kivy
 from kivy.app import App
 from kivy.uix.widget import Widget
